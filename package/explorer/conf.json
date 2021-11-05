@@ -1,0 +1,6 @@
+{
+    "ORIGIN": "*",
+    "METHODS": "GET,POST,HEAD,PUT,DELETE,PATCH",
+    "PORT":"3000"
+}
+​​
